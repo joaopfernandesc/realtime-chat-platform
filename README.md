@@ -1,5 +1,7 @@
 # Ruby on Rails: Realtime Chat Platform
 
+Solution is provided [here](https://github.com/joaopfernandesc/realtime-chat-platform/pull/2)
+
 ## Project Specifications
 
 **Environment**  
